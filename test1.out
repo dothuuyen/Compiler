@@ -1,0 +1,4 @@
+int int_keyword
+main identifier
+return return_keyword
+1 int_const
